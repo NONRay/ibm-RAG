@@ -69,11 +69,12 @@ class PDFParser:
     def _create_document_converter(self) -> "DocumentConverter": # type: ignore
         """Creates and returns a DocumentConverter with default pipeline options."""
         from docling.document_converter import DocumentConverter, FormatOption
-        from docling.datamodel.pipeline_options import PdfPipelineOptions, TableFormerMode, EasyOcrOptions
+        from docling.datamodel.pipeline_options import PdfPipelineOptions, TableFormerMode, EasyOcrOptions, AcceleratorOptions, AcceleratorDevice
         from docling.datamodel.base_models import InputFormat
         from docling.pipeline.standard_pdf_pipeline import StandardPdfPipeline
         
         pipeline_options = PdfPipelineOptions()
+        pipeline_options.accelerator_options = AcceleratorOptions(num_threads=4, device=AcceleratorDevice.CPU)
         pipeline_options.do_ocr = True
         ocr_options = EasyOcrOptions(lang=['en'], force_full_page_ocr=False)
         pipeline_options.ocr_options = ocr_options

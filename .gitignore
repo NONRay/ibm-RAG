@@ -3,8 +3,8 @@ data/erc2_set/debug_data/
 data/erc2_set/databases/
 data/erc2_set/databases_ser_tab/
 
-data/test_set/debug_data
-data/test_set/databases
+# data/test_set/debug_data
+# data/test_set/databases
 data/test_set/databases_ser_tab
 
 # Byte-compiled / optimized / DLL files

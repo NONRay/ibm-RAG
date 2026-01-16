@@ -55,11 +55,21 @@ class VectorDBIngestor:
 
     def _set_up_llm(self):
         load_dotenv()
-        llm = OpenAI(
-            api_key=os.getenv("OPENAI_API_KEY"),
-            timeout=None,
-            max_retries=2
-        )
+        provider = os.getenv("EMBEDDINGS_PROVIDER", "openai").lower()
+        if provider == "qwen":
+            llm = OpenAI(
+                api_key=os.getenv("DASHSCOPE_API_KEY"),
+                base_url=os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1"),
+                timeout=None,
+                max_retries=2
+            )
+        else:
+            llm = OpenAI(
+                api_key=os.getenv("OPENAI_API_KEY"),
+                timeout=None,
+                max_retries=2
+            )
+        self.provider = provider
         return llm
 
     @retry(wait=wait_fixed(20), stop=stop_after_attempt(2))
@@ -68,13 +78,20 @@ class VectorDBIngestor:
             raise ValueError("Input text cannot be an empty string.")
         
         if isinstance(text, list):
-            text_chunks = [text[i:i + 1024] for i in range(0, len(text), 1024)]
+            if getattr(self, "provider", "openai") == "qwen":
+                max_batch_size = 10
+            else:
+                max_batch_size = 1024
+            text_chunks = [text[i:i + max_batch_size] for i in range(0, len(text), max_batch_size)]
         else:
             text_chunks = [text]
 
         embeddings = []
+        provider_model = model
+        if getattr(self, "provider", "openai") == "qwen":
+            provider_model = os.getenv("QWEN_EMBEDDING_MODEL", "text-embedding-v4")
         for chunk in text_chunks:
-            response = self.llm.embeddings.create(input=chunk, model=model)
+            response = self.llm.embeddings.create(input=chunk, model=provider_model)
             embeddings.extend([embedding.embedding for embedding in response.data])
         
         return embeddings
