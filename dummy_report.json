@@ -1,0 +1,1433 @@
+{
+  "metainfo": {
+    "sha1_name": "dummy_report",
+    "pages_amount": 2,
+    "text_blocks_amount": 64,
+    "tables_amount": 2,
+    "pictures_amount": 0,
+    "equations_amount": 0,
+    "footnotes_amount": 0
+  },
+  "content": [
+    {
+      "page": 1,
+      "content": [
+        {
+          "text": "Table of Contents",
+          "type": "page_header",
+          "text_id": 0
+        },
+        {
+          "text": "UNITED STATES",
+          "type": "section_header",
+          "text_id": 1
+        },
+        {
+          "text": "SECURITIES AND EXCHANGE COMMISSION Washington, DC 20549",
+          "type": "section_header",
+          "text_id": 2
+        },
+        {
+          "text": "FORM 10-K",
+          "type": "section_header",
+          "text_id": 3
+        },
+        {
+          "text": "☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934",
+          "type": "section_header",
+          "text_id": 4
+        },
+        {
+          "text": "For the fiscal year ended December 31, 2022",
+          "type": "text",
+          "text_id": 5
+        },
+        {
+          "text": "OR",
+          "type": "text",
+          "text_id": 6
+        },
+        {
+          "text": "☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934",
+          "type": "list_item",
+          "text_id": 7,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 0,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "For the transition period from",
+          "type": "text",
+          "text_id": 8
+        },
+        {
+          "text": "to",
+          "type": "text",
+          "text_id": 9
+        },
+        {
+          "text": "Commission file number: 001-39599",
+          "type": "text",
+          "text_id": 10
+        },
+        {
+          "text": "HOLLEY INC.",
+          "type": "section_header",
+          "text_id": 11
+        },
+        {
+          "text": "(Exact name of registrant as specified in its charter)",
+          "type": "text",
+          "text_id": 12
+        },
+        {
+          "text": "Delaware",
+          "type": "section_header",
+          "text_id": 13
+        },
+        {
+          "text": "(State or other jurisdiction of incorporation or organization)",
+          "type": "text",
+          "text_id": 14
+        },
+        {
+          "text": "87-1727560",
+          "type": "text",
+          "text_id": 15,
+          "group_id": 1,
+          "group_name": "group",
+          "group_label": "key_value_area"
+        },
+        {
+          "text": "(I.R.S. Employer Identification No.)",
+          "type": "text",
+          "text_id": 16,
+          "group_id": 1,
+          "group_name": "group",
+          "group_label": "key_value_area"
+        },
+        {
+          "text": "1801 Russellville Road, Bowling Green, KY 42101",
+          "type": "section_header",
+          "text_id": 17
+        },
+        {
+          "text": "(Address of principal executive offices)",
+          "type": "text",
+          "text_id": 18
+        },
+        {
+          "text": "(270) 782-2900",
+          "type": "section_header",
+          "text_id": 19
+        },
+        {
+          "text": "(Registrant s telephone number, including area code) '",
+          "type": "text",
+          "text_id": 20
+        },
+        {
+          "text": "(Former name, former address and former fiscal year, if changed since last report) N/A",
+          "type": "text",
+          "text_id": 21
+        },
+        {
+          "text": "Securities registered pursuant to Section 12(b) of the Act:",
+          "type": "section_header",
+          "text_id": 22
+        },
+        {
+          "type": "table",
+          "table_id": 0
+        },
+        {
+          "text": "Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒",
+          "type": "text",
+          "text_id": 23
+        },
+        {
+          "text": "Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes ☐ No ☒",
+          "type": "text",
+          "text_id": 24
+        },
+        {
+          "text": "Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐",
+          "type": "text",
+          "text_id": 25
+        },
+        {
+          "text": "Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐",
+          "type": "text",
+          "text_id": 26
+        },
+        {
+          "text": "Indicate  by  check  mark  whether  the  registrant  is  a  large  accelerated  filer,  an  accelerated  filer,  a  non-accelerated  filer,  a  smaller  reporting  company,  or  an emerging growth company. See the definitions of 'large accelerated filer,' 'accelerated filer,' 'smaller reporting company,' and 'emerging growth company' in Rule 12b-2 of the Exchange Act.",
+          "type": "text",
+          "text_id": 27
+        },
+        {
+          "type": "table",
+          "table_id": 1
+        },
+        {
+          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐",
+          "type": "text",
+          "text_id": 28
+        },
+        {
+          "text": "Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐",
+          "type": "text",
+          "text_id": 29
+        },
+        {
+          "text": "If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐",
+          "type": "text",
+          "text_id": 30
+        },
+        {
+          "text": "Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐",
+          "type": "text",
+          "text_id": 31
+        },
+        {
+          "text": "Indicate by check mark whether the registrant is a shell company (as defined in Rule12b-2 of the Exchange Act). Yes ☐ No ☒",
+          "type": "text",
+          "text_id": 32
+        },
+        {
+          "text": "As of July 1, 2022, the last business day of the registrant's most recently completed second fiscal quarter, the aggregate market value of the registrant's common stock held by non-affiliates, computed by reference to the closing sales price of $10.98 reported on the New York Stock Exchange, was approximately $560 million.",
+          "type": "text",
+          "text_id": 33
+        },
+        {
+          "text": "There were 118,241,747 shares of Common Stock, including 1,093,750 restricted earn-out shares, par value $0.0001 per share, issued and outstanding as of March 10, 2023.",
+          "type": "text",
+          "text_id": 34
+        },
+        {
+          "text": "Documents incorporated by reference: Parts of the registrant's Proxy Statement for the registrant's 2023 Annual Meeting of Stockholders are incorporated by reference into Part III of this Annual Report on Form 10-K.",
+          "type": "text",
+          "text_id": 35
+        }
+      ],
+      "page_dimensions": {
+        "l": 18.225000381469727,
+        "t": 760.8319702148438,
+        "r": 82.06600189208984,
+        "b": 756.3209838867188,
+        "coord_origin": "BOTTOMLEFT"
+      }
+    },
+    {
+      "page": 2,
+      "content": [
+        {
+          "text": "Table of Contents",
+          "type": "section_header",
+          "text_id": 36
+        },
+        {
+          "text": "CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS",
+          "type": "section_header",
+          "text_id": 37
+        },
+        {
+          "text": "This Annual Report on Form 10-K includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the \"Securities Act\"), and Section 21E of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\"), that are intended to enjoy the protection of the safe harbor for forward-looking statements provided by the Securities Act and Exchange Act, as well as protections afforded  by  other  federal  securities  laws. These  forward-looking  statements  relate  to  expectations  for  future  financial  performance,  business strategies  or  expectations  for  the  Company's  business.  Forward-looking  statements  may  be  accompanied  by  words  such  as  'believe,' 'estimate,' 'expect,' 'project,' 'forecast,' 'may,' 'will,' 'should,' 'seek,' 'plan,' 'scheduled,' 'anticipate,' 'intend' or similar expressions. These forward-looking statements are subject to various risks and uncertainties, many of which are outside our control. Therefore, you should not place undue reliance on such statements. These forward-looking statements are subject to a number of risks and uncertainties and actual results could differ materially due to numerous factors, including, but not limited to, the Company's ability to do any of the following:",
+          "type": "text",
+          "text_id": 38
+        },
+        {
+          "text": "· execute  its  business  strategy,  including  monetization  of  services  provided  and  expansions  in  and  into  existing  and  new  lines  of business;",
+          "type": "list_item",
+          "text_id": 39,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· anticipate and manage through disruptions and higher costs in manufacturing, supply chain, logistical operations, and shortages of certain company products in distribution channels;",
+          "type": "list_item",
+          "text_id": 40,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· anticipate  and  manage  through  supply  shortages  of  key  component  parts  used  in  our  products  and  the  need  to  shift  the  mix  of products offered in response thereto;",
+          "type": "list_item",
+          "text_id": 41,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· respond to interruption from catastrophic events and problems such as terrorism, public health crises, cyber-attacks, or failure of key information technology systems;",
+          "type": "list_item",
+          "text_id": 42,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· maintain key strategic relationships with partners and resellers;",
+          "type": "list_item",
+          "text_id": 43,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· anticipate and manage through the rise in interest rates which would increase the cost of capital, as well as respond to inflationary pressures;",
+          "type": "list_item",
+          "text_id": 44,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· enhance future operating and financial results;",
+          "type": "list_item",
+          "text_id": 45,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· respond to uncertainties associated with product and service development and market acceptance;",
+          "type": "list_item",
+          "text_id": 46,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· attract and retain qualified employees and key personnel;",
+          "type": "list_item",
+          "text_id": 47,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· protect and enhance the Company's corporate reputation and brand awareness;",
+          "type": "list_item",
+          "text_id": 48,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· effectively respond to general economic and business conditions;",
+          "type": "list_item",
+          "text_id": 49,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· acquire and protect intellectual property;",
+          "type": "list_item",
+          "text_id": 50,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· collect, store, process and use personal and payment information and other consumer data;",
+          "type": "list_item",
+          "text_id": 51,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· comply with privacy and data protection laws and other legal obligations related to privacy, information security, and data protection;",
+          "type": "list_item",
+          "text_id": 52,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· meet future liquidity requirements and comply with restrictive covenants related to long-term indebtedness;",
+          "type": "list_item",
+          "text_id": 53,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· obtain additional capital, including use of the debt market;",
+          "type": "list_item",
+          "text_id": 54,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· manage to finance operations on an economically viable basis;",
+          "type": "list_item",
+          "text_id": 55,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· maintain  Holley's  New  York  Stock  Exchange  ('NYSE')  listing  of  its  common  stock  ('Common  Stock')  and  warrants  to  purchase Common Stock ('Warrants');",
+          "type": "list_item",
+          "text_id": 56,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· comply with laws and regulations applicable to its business, including laws and regulations related to environmental health and safety;",
+          "type": "list_item",
+          "text_id": 57,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· respond to litigation, complaints, product liability claims and/or adverse publicity;",
+          "type": "list_item",
+          "text_id": 58,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· stay abreast of modified or new laws and regulations;",
+          "type": "list_item",
+          "text_id": 59,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· anticipate the significance and timing of contractual obligations;",
+          "type": "list_item",
+          "text_id": 60,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· anticipate the impact of, and response to, new accounting standards;",
+          "type": "list_item",
+          "text_id": 61,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "· maintain proper and effective internal controls;",
+          "type": "list_item",
+          "text_id": 62,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 2,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "2",
+          "type": "page_footer",
+          "text_id": 63
+        }
+      ],
+      "page_dimensions": {
+        "l": 18.225000381469727,
+        "t": 768.0700073242188,
+        "r": 88.25199890136719,
+        "b": 763.1339721679688,
+        "coord_origin": "BOTTOMLEFT"
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": 0,
+      "page": 1,
+      "bbox": [
+        16.89212417602539,
+        489.4932556152344,
+        594.7470092773438,
+        451.9150695800781
+      ],
+      "#-rows": 3,
+      "#-cols": 3,
+      "markdown": "| Title of each class               | Trading symbol(s)   | Name of each exchange on which registered   |\n|-----------------------------------|---------------------|---------------------------------------------|\n| Common Stock, par value $0.0001   | HLLY                | New York Stock Exchange                     |\n| Warrants to Purchase Common Stock | HLLY WS             | New York Stock Exchange                     |",
+      "html": "",
+      "json": {
+        "self_ref": "#/tables/0",
+        "parent": {
+          "cref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "meta": null,
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 16.89212417602539,
+              "t": 489.4932556152344,
+              "r": 594.7470092773438,
+              "b": 451.9150695800781,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "image": null,
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 78.40499877929688,
+                "t": 479.197998046875,
+                "r": 148.03900146484375,
+                "b": 474.7569885253906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Title of each class",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 286.9590148925781,
+                "t": 488.64801025390625,
+                "r": 325.2170104980469,
+                "b": 474.7569885253906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Trading symbol(s)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 452.8299865722656,
+                "t": 488.64801025390625,
+                "r": 545.1179809570312,
+                "b": 474.7569885253906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Name of each exchange on which registered",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 50.856998443603516,
+                "t": 469.0769958496094,
+                "r": 175.5760040283203,
+                "b": 464.63299560546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Common Stock, par value $0.0001",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.2619934082031,
+                "t": 469.0769958496094,
+                "r": 315.9219970703125,
+                "b": 464.63299560546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "HLLY",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 451.4800109863281,
+                "t": 469.0769958496094,
+                "r": 546.4849853515625,
+                "b": 464.63299560546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "New York Stock Exchange",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 45.39400100708008,
+                "t": 459.62701416015625,
+                "r": 181.04100036621094,
+                "b": 455.1830139160156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Warrants to Purchase Common Stock",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 288.6889953613281,
+                "t": 459.62701416015625,
+                "r": 323.50201416015625,
+                "b": 455.1830139160156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "HLLY WS",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 451.4800109863281,
+                "t": 459.62701416015625,
+                "r": 546.4849853515625,
+                "b": 455.1830139160156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "New York Stock Exchange",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 3,
+          "num_cols": 3,
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 78.40499877929688,
+                  "t": 479.197998046875,
+                  "r": 148.03900146484375,
+                  "b": 474.7569885253906,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Title of each class",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 286.9590148925781,
+                  "t": 488.64801025390625,
+                  "r": 325.2170104980469,
+                  "b": 474.7569885253906,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "Trading symbol(s)",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 452.8299865722656,
+                  "t": 488.64801025390625,
+                  "r": 545.1179809570312,
+                  "b": 474.7569885253906,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Name of each exchange on which registered",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 50.856998443603516,
+                  "t": 469.0769958496094,
+                  "r": 175.5760040283203,
+                  "b": 464.63299560546875,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Common Stock, par value $0.0001",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 296.2619934082031,
+                  "t": 469.0769958496094,
+                  "r": 315.9219970703125,
+                  "b": 464.63299560546875,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "HLLY",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 451.4800109863281,
+                  "t": 469.0769958496094,
+                  "r": 546.4849853515625,
+                  "b": 464.63299560546875,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "New York Stock Exchange",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 45.39400100708008,
+                  "t": 459.62701416015625,
+                  "r": 181.04100036621094,
+                  "b": 455.1830139160156,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Warrants to Purchase Common Stock",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 288.6889953613281,
+                  "t": 459.62701416015625,
+                  "r": 323.50201416015625,
+                  "b": 455.1830139160156,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "HLLY WS",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 451.4800109863281,
+                  "t": 459.62701416015625,
+                  "r": 546.4849853515625,
+                  "b": 455.1830139160156,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "New York Stock Exchange",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      }
+    },
+    {
+      "table_id": 1,
+      "page": 1,
+      "bbox": [
+        19.96746063232422,
+        314.4937744140625,
+        553.7664184570312,
+        282.7032470703125
+      ],
+      "#-rows": 3,
+      "#-cols": 4,
+      "markdown": "| Large accelerated filer   | ☐   | Accelerated filer         | ☒   |\n|---------------------------|-----|---------------------------|-----|\n| Non-accelerated filer     | ☐   | Smaller reporting company | ☐   |\n|                           |     | Emerging growth company   | ☒   |",
+      "html": "",
+      "json": {
+        "self_ref": "#/tables/1",
+        "parent": {
+          "cref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "meta": null,
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 19.96746063232422,
+              "t": 314.4937744140625,
+              "r": 553.7664184570312,
+              "b": 282.7032470703125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "image": null,
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 20.924999237060547,
+                "t": 313.1520080566406,
+                "r": 101.07099914550781,
+                "b": 308.7080078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Large accelerated filer",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 142.49899291992188,
+                "t": 311.6719970703125,
+                "r": 149.4759979248047,
+                "b": 307.3190002441406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "☐",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 364.8689880371094,
+                "t": 313.1520080566406,
+                "r": 422.94500732421875,
+                "b": 308.7080078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Accelerated filer",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 544.155029296875,
+                "t": 311.6719970703125,
+                "r": 551.1320190429688,
+                "b": 307.3190002441406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "☒",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 20.924999237060547,
+                "t": 302.35198974609375,
+                "r": 95.66000366210938,
+                "b": 297.9079895019531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Non-accelerated filer",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 142.49899291992188,
+                "t": 300.87200927734375,
+                "r": 149.4759979248047,
+                "b": 296.5190124511719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "☐",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 364.8689880371094,
+                "t": 302.35198974609375,
+                "r": 461.6619873046875,
+                "b": 297.9079895019531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Smaller reporting company",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 544.155029296875,
+                "t": 300.87200927734375,
+                "r": 551.1320190429688,
+                "b": 296.5190124511719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "☐",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": null,
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": null,
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 364.8689880371094,
+                "t": 291.552001953125,
+                "r": 461.2149963378906,
+                "b": 287.1080017089844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Emerging growth company",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 544.155029296875,
+                "t": 290.0719909667969,
+                "r": 551.1320190429688,
+                "b": 285.718994140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "☒",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 3,
+          "num_cols": 4,
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 20.924999237060547,
+                  "t": 313.1520080566406,
+                  "r": 101.07099914550781,
+                  "b": 308.7080078125,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Large accelerated filer",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 142.49899291992188,
+                  "t": 311.6719970703125,
+                  "r": 149.4759979248047,
+                  "b": 307.3190002441406,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "☐",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 364.8689880371094,
+                  "t": 313.1520080566406,
+                  "r": 422.94500732421875,
+                  "b": 308.7080078125,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Accelerated filer",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 544.155029296875,
+                  "t": 311.6719970703125,
+                  "r": 551.1320190429688,
+                  "b": 307.3190002441406,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "☒",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 20.924999237060547,
+                  "t": 302.35198974609375,
+                  "r": 95.66000366210938,
+                  "b": 297.9079895019531,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Non-accelerated filer",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 142.49899291992188,
+                  "t": 300.87200927734375,
+                  "r": 149.4759979248047,
+                  "b": 296.5190124511719,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "☐",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 364.8689880371094,
+                  "t": 302.35198974609375,
+                  "r": 461.6619873046875,
+                  "b": 297.9079895019531,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Smaller reporting company",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 544.155029296875,
+                  "t": 300.87200927734375,
+                  "r": 551.1320190429688,
+                  "b": 296.5190124511719,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "☐",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": null,
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": null,
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 364.8689880371094,
+                  "t": 291.552001953125,
+                  "r": 461.2149963378906,
+                  "b": 287.1080017089844,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Emerging growth company",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 544.155029296875,
+                  "t": 290.0719909667969,
+                  "r": 551.1320190429688,
+                  "b": 285.718994140625,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "☒",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      }
+    }
+  ],
+  "pictures": []
+}

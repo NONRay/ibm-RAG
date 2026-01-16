@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "question_text": "Did Mercia Asset Management PLC mention any mergers or acquisitions in the annual report?",
+      "kind": "boolean",
+      "value": null,
+      "references": [],
+      "error": "ValueError: No report found with 'Mercia Asset Management PLC' company name.",
+      "answer_details": {
+        "$ref": "#/answer_details/0"
+      }
+    },
+    {
+      "question_text": "According to the annual report, what is the Operating margin (%) for Tradition (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+      "kind": "number",
+      "value": null,
+      "references": [],
+      "error": "ValueError: No report found with 'Tradition' company name.",
+      "answer_details": {
+        "$ref": "#/answer_details/1"
+      }
+    },
+    {
+      "question_text": "Did TSX_Y announce a share buyback plan in the annual report?",
+      "kind": "boolean",
+      "value": null,
+      "references": [],
+      "error": "ValueError: No report found with 'TSX_Y' company name.",
+      "answer_details": {
+        "$ref": "#/answer_details/2"
+      }
+    },
+    {
+      "question_text": "What was the largest single spending of CrossFirst Bank on executive compensation in USD?",
+      "kind": "name",
+      "value": null,
+      "references": [],
+      "error": "ValueError: No report found with 'CrossFirst Bank' company name.",
+      "answer_details": {
+        "$ref": "#/answer_details/3"
+      }
+    },
+    {
+      "question_text": "Did Holley Inc. mention any mergers or acquisitions in the annual report?",
+      "kind": "boolean",
+      "value": null,
+      "references": [],
+      "error": "ValueError: No report found with 'Holley Inc.' company name.",
+      "answer_details": {
+        "$ref": "#/answer_details/4"
+      }
+    }
+  ],
+  "answer_details": [
+    {
+      "error_traceback": "Traceback (most recent call last):\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 278, in _process_single_question\n    answer_dict = self.process_question(question_text, schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 195, in process_question\n    answer_dict = self.get_answer_for_company(company_name=company_name, question=question, schema=schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 137, in get_answer_for_company\n    retrieval_results = retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 271, in retrieve_by_company_name\n    vector_results = self.vector_retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 167, in retrieve_by_company_name\n    raise ValueError(f\"No report found with '{company_name}' company name.\")\nValueError: No report found with 'Mercia Asset Management PLC' company name.\n",
+      "self": "#/answer_details/0"
+    },
+    {
+      "error_traceback": "Traceback (most recent call last):\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 278, in _process_single_question\n    answer_dict = self.process_question(question_text, schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 195, in process_question\n    answer_dict = self.get_answer_for_company(company_name=company_name, question=question, schema=schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 137, in get_answer_for_company\n    retrieval_results = retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 271, in retrieve_by_company_name\n    vector_results = self.vector_retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 167, in retrieve_by_company_name\n    raise ValueError(f\"No report found with '{company_name}' company name.\")\nValueError: No report found with 'Tradition' company name.\n",
+      "self": "#/answer_details/1"
+    },
+    {
+      "error_traceback": "Traceback (most recent call last):\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 278, in _process_single_question\n    answer_dict = self.process_question(question_text, schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 195, in process_question\n    answer_dict = self.get_answer_for_company(company_name=company_name, question=question, schema=schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 137, in get_answer_for_company\n    retrieval_results = retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 271, in retrieve_by_company_name\n    vector_results = self.vector_retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 167, in retrieve_by_company_name\n    raise ValueError(f\"No report found with '{company_name}' company name.\")\nValueError: No report found with 'TSX_Y' company name.\n",
+      "self": "#/answer_details/2"
+    },
+    {
+      "error_traceback": "Traceback (most recent call last):\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 278, in _process_single_question\n    answer_dict = self.process_question(question_text, schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 195, in process_question\n    answer_dict = self.get_answer_for_company(company_name=company_name, question=question, schema=schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 137, in get_answer_for_company\n    retrieval_results = retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 271, in retrieve_by_company_name\n    vector_results = self.vector_retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 167, in retrieve_by_company_name\n    raise ValueError(f\"No report found with '{company_name}' company name.\")\nValueError: No report found with 'CrossFirst Bank' company name.\n",
+      "self": "#/answer_details/3"
+    },
+    {
+      "error_traceback": "Traceback (most recent call last):\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 278, in _process_single_question\n    answer_dict = self.process_question(question_text, schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 195, in process_question\n    answer_dict = self.get_answer_for_company(company_name=company_name, question=question, schema=schema)\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/questions_processing.py\", line 137, in get_answer_for_company\n    retrieval_results = retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 271, in retrieve_by_company_name\n    vector_results = self.vector_retriever.retrieve_by_company_name(\n  File \"/root/autodl-tmp/案例4-IBM RAG冠军赛项目-源码包/RAG-Challenge-2-main/src/retrieval.py\", line 167, in retrieve_by_company_name\n    raise ValueError(f\"No report found with '{company_name}' company name.\")\nValueError: No report found with 'Holley Inc.' company name.\n",
+      "self": "#/answer_details/4"
+    }
+  ],
+  "statistics": {
+    "total_questions": 5,
+    "error_count": 5,
+    "na_count": 0,
+    "success_count": 0
+  }
+}
